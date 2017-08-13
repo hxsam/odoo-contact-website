@@ -15,7 +15,7 @@ This module makes it possible to open the website in a new tab!
 0. Activate the Odoo developer mode (Settings tab)
 0. Update Apps List (Apps tab)
 0. Remove "Apps" from the search field
-0. Search and Install the "Customer Website" module
+0. Search and Install the "Contact Website" module
 
 ## Usage
 
