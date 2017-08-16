@@ -1,7 +1,7 @@
 <odoo>
   <template id="contact_website" inherit_id="base.contact">
     <xpath expr="//span[@itemprop='website']/ancestor::a" position="replace">
-      <a t-att-href="website and '%s%s' % ('http://' if '://' not in website else '',website)" t-att-target="'_blank'if options.get('target_blank') else '_self'">
+      <a t-att-href="website and '%s%s' % ('http://' if '://' not in website else '',website)" target="_blank">
         <span itemprop="website" t-esc="website"/>
       </a>
     </xpath>
