@@ -12,6 +12,8 @@ This module makes it possible to open the website in a new tab!
 
 ## Installation
 
+0. Navigate to your custom Odoo addons directory: `cd <odoo_custom_addons>`
+0. Clone this project by running the following command: `git clone https://github.com/trimentor/odoo-contact-website.git contact_website`
 0. Activate the Odoo developer mode (Settings tab)
 0. Update Apps List (Apps tab)
 0. Remove "Apps" from the search field
