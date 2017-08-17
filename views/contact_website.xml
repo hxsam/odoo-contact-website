@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <odoo>
   <template id="contact_website" inherit_id="base.contact">
     <xpath expr="//span[@itemprop='website']/ancestor::a" position="replace">

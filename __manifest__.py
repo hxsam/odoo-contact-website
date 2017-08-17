@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 {
     'name': 'Contact Website',
     'description': 'Extension for the contact module',
